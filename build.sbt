@@ -1,4 +1,4 @@
-name := "akkahttp_blogbase"
+name := "akkahttp_postgres_simple_api"
  
 version := "1.0"
  

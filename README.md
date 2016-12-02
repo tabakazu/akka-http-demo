@@ -1,5 +1,5 @@
 # akkahttp_postgres_simple_api
-#####Please change App.conf to your environment.
+#####Please change src/main/resources/application.conf to your environment.
 
 ##CRUD
 #####Create
