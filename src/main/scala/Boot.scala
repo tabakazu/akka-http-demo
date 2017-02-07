@@ -15,5 +15,5 @@ object Boot extends App with Routes {
   StdIn.readLine()
   bindingFuture
     .flatMap(_.unbind())
-		.onComplete(_ => system.terminate())
+      .onComplete(_ => system.terminate())
 }
